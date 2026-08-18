@@ -5,7 +5,7 @@ This repository contains sample artifacts from the assessment performed on IndyR
 
 Nevertheless, this repository includes representative samples of every type of artifact produced during the assessment, providing reviewers with access to the material on which the following paper is based:
 
-IndyRAG: an interactive, multimodal, and multi-agent RAG system for industrial applications
+*IndyRAG: an interactive, multimodal, and multi-agent RAG system for industrial applications.* Corradin and Melchior (2026).
 
 The evaluation results are an exception: they are provided in full in this repository. 
 
