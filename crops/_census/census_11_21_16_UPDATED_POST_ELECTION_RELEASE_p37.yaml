@@ -1,0 +1,11 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p37
+items:
+- id: 1
+  label: bar_chart_01
+  description: A stacked bar chart showing voter opinions on press treatment of candidates.
+  status: COMPLETED
+- id: 2
+  label: text_notes_block_01
+  description: Text notes block on the left side of the page.
+  status: PENDING

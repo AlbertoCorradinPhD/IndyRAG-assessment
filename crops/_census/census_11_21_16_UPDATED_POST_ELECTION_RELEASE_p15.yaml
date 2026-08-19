@@ -1,0 +1,12 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p15
+items:
+- id: 1
+  label: chart_clinton_supporters
+  description: A chart showing Clinton supporters' willingness to give Trump a chance.
+  status: COMPLETED
+- id: 2
+  label: chart_trump_voters
+  description: A chart showing Trump voters' confidence in the type of president he
+    will be.
+  status: COMPLETED

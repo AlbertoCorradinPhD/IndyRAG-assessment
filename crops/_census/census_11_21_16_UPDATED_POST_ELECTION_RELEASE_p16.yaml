@@ -1,0 +1,13 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p16
+items:
+- id: 1
+  label: text_notes_block
+  description: Text block discussing voters' views on whether Trump will favor the
+    needs of his supporters.
+  status: PENDING
+- id: 2
+  label: bar_chart_trump_priorities
+  description: Bar chart showing if voters think Trump will prioritize needs of all
+    Americans or his supporters.
+  status: COMPLETED

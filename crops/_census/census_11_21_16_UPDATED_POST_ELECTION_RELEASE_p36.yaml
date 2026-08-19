@@ -1,0 +1,9 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p36
+items:
+- id: 1
+  label: bar_chart_01
+  description: Bar chart showing the percentage of voters saying news organizations
+    had too much, too little, or the right amount of influence on the outcome of the
+    presidential election over time.
+  status: COMPLETED

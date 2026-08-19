@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p21
+items:
+- id: 1
+  label: bar_chart
+  description: A stacked bar chart showing confidence in Trump on various issues among
+    Trump and Clinton voters.
+  status: PENDING

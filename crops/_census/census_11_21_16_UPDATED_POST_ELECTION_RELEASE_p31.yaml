@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p31
+items:
+- id: 1
+  label: bar_chart_grades
+  description: Stacked bar chart showing grades for the media and pollsters in 2016.
+  status: COMPLETED

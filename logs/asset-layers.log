@@ -1,0 +1,90 @@
+{"ts": "2026-08-19T11:24:53.419616+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:53.425684+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:53.426848+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:53.429071+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:55.398427+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:55.426239+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:55.454561+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:55.490249+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:55.704929+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:55.731962+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:55.958896+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:55.996958+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:56.831382+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:56.864624+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:57.341386+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:57.376580+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:57.751914+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:57.753469+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:57.786552+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:57.788385+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:59.084974+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:59.116205+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:59.596881+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:59.599082+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:59.626303+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:24:59.628372+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:59.631372+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:24:59.648527+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:00.824677+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:00.860323+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:01.643392+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:01.675753+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:01.742526+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:01.771369+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:01.993656+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:02.028506+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:02.667621+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:02.710047+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:03.282723+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:03.315864+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:03.524705+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:03.568262+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:04.101028+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:04.137503+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:04.817441+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:04.856514+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:04.989721+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:04.992262+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:05.034519+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:05.043560+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:05.637965+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:05.670042+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:06.455569+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:06.507156+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:06.967027+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:07.030469+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:07.233751+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:07.288557+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:08.093684+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:08.136623+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:08.362879+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:08.403421+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:09.221275+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:09.242344+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:09.255790+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:09.270900+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:09.944963+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:09.988435+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:10.297222+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:10.334523+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:10.916823+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:10.972434+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:11.188276+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:11.220553+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:11.724069+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:11.758163+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:12.706048+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:12.757721+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:12.973100+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:13.001729+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:13.157614+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:13.189904+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:13.282957+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:13.332883+00:00", "level": "INFO", "phase": null, "message": "AFC is enabled with max remote calls: 10."}
+{"ts": "2026-08-19T11:25:14.955297+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:14.965571+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:14.967856+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:15.029255+00:00", "level": "INFO", "phase": null, "message": "HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent \"HTTP/1.1 200 OK\""}
+{"ts": "2026-08-19T11:25:15.036282+00:00", "level": "INFO", "phase": null, "message": "assign-assets-complete", "verified": 44, "changes": 44}
+{"ts": "2026-08-19T11:25:15.150579+00:00", "level": "INFO", "phase": "asset-layers", "message": "run-complete", "log_path": "/Users/alberto/Documents/sampled/logs/asset-layers.log"}

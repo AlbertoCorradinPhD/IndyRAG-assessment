@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p27
+items:
+- id: 1
+  label: survey_chart
+  description: Survey data chart showing voter reactions to GOP retaining congressional
+    majority.
+  status: COMPLETED

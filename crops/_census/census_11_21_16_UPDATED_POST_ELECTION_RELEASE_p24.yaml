@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p24
+items:
+- id: 1
+  label: voter_opinion_chart
+  description: A chart showing voter opinions on whether Trump should work with Democrats.
+  status: COMPLETED

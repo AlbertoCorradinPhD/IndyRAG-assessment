@@ -1,0 +1,11 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p42
+items:
+- id: 1
+  label: voters_experience_text
+  description: Text block describing voters experience at the polls.
+  status: PENDING
+- id: 2
+  label: wait_time_chart
+  description: Bar chart showing wait times for early in-person voters.
+  status: COMPLETED

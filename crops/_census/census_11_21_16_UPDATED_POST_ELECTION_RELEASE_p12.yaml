@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p12
+items:
+- id: 1
+  label: emotional_reactions_bar_chart
+  description: A bar chart showing voters' emotional reactions to the election of
+    Trump.
+  status: COMPLETED

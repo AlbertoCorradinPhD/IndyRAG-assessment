@@ -1,0 +1,1174 @@
+schema_version: '1.0'
+layers_hash: ''
+documents:
+- doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  machine: 11_21_16_updated_post_election_release
+  path: corpus/11_21_16_updated_post_election_release/11-21-16-Updated-Post-Election-Release.pdf
+  layer: data
+  needs_verification: false
+  HITL_approval: true
+  sha256: ef7f8f3e9858a26ec7a53003fc7f04bbec4097179e76c3d74c43104e59d2d345
+  title: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  language_dominant: en
+  languages_by_page:
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  - en
+  pages: 45
+  sheets: null
+  format_class_dominant: A4
+  toc:
+  - page: 2
+    block_idx: 3
+    text: About Pew Research Center
+    level: 1
+  - page: 2
+    block_idx: 5
+    text: "\xA9 Pew Research Center 2017"
+    level: 3
+  - page: 3
+    block_idx: 4
+    text: "30 \n33"
+    level: 5
+  - page: 3
+    block_idx: 7
+    text: "40 \n44"
+    level: 5
+  - page: 3
+    block_idx: 12
+    text: "52 \n55"
+    level: 5
+  - page: 3
+    block_idx: 17
+    text: "Winning  \ncandidate"
+    level: 5
+  - page: 3
+    block_idx: 18
+    text: "Losing  \ncandidate"
+    level: 5
+  - page: 3
+    block_idx: 28
+    text: "2008 \nMcCain"
+    level: 1
+  - page: 3
+    block_idx: 30
+    text: "2016 \nTrump \nClinton"
+    level: 1
+  - page: 3
+    block_idx: 33
+    text: "2012 \nRomney"
+    level: 1
+  - page: 4
+    block_idx: 17
+    text: "Large share of Trump voters are \nconfident in kind of president he\u2019\
+      ll be"
+    level: 2
+  - page: 4
+    block_idx: 22
+    text: "How Clinton voters feel about \u2018giving \nTrump a chance\u2019"
+    level: 2
+  - page: 5
+    block_idx: 10
+    text: "Work with Obama to \nget things done, even"
+    level: 5
+  - page: 5
+    block_idx: 11
+    text: if it disappoints
+    level: 5
+  - page: 5
+    block_idx: 14
+    text: Rep/Lean Rep
+    level: 5
+  - page: 5
+    block_idx: 15
+    text: Dem/Lean Dem
+    level: 5
+  - page: 5
+    block_idx: 23
+    text: "Work with Trump to \nget things done, even"
+    level: 5
+  - page: 5
+    block_idx: 24
+    text: if it disappoints
+    level: 5
+  - page: 5
+    block_idx: 27
+    text: Rep/Lean Rep
+    level: 5
+  - page: 5
+    block_idx: 28
+    text: Dem/Lean Dem
+    level: 5
+  - page: 5
+    block_idx: 33
+    text: "Most Clinton voters want Democratic \nleaders to stand up to Trump"
+    level: 2
+  - page: 5
+    block_idx: 34
+    text: "% of voters saying Democratic leaders should \u2026"
+    level: 5
+  - page: 5
+    block_idx: 36
+    text: "November 2008 \n% of voters saying Republican leaders should \u2026"
+    level: 5
+  - page: 6
+    block_idx: 13
+    text: "All \nvoters"
+    level: 5
+  - page: 6
+    block_idx: 14
+    text: 'Trump
+
+      voters'
+    level: 5
+  - page: 6
+    block_idx: 15
+    text: "Clinton \nvoters"
+    level: 5
+  - page: 6
+    block_idx: 25
+    text: "All \nvoters"
+    level: 5
+  - page: 6
+    block_idx: 26
+    text: 'Obama
+
+      voters'
+    level: 5
+  - page: 6
+    block_idx: 27
+    text: "McCain \nvoters"
+    level: 5
+  - page: 6
+    block_idx: 34
+    text: "Relatively few Trump backers want him \nto appoint Democrats to key positions"
+    level: 2
+  - page: 7
+    block_idx: 28
+    text: Average
+    level: 5
+  - page: 7
+    block_idx: 30
+    text: "Clinton \n43 \nC"
+    level: 5
+  - page: 7
+    block_idx: 31
+    text: "Rep Party \n22 \nD+"
+    level: 5
+  - page: 7
+    block_idx: 32
+    text: "Dem Party \n26 \nC-"
+    level: 5
+  - page: 7
+    block_idx: 33
+    text: "The press \n22 \nD+"
+    level: 5
+  - page: 7
+    block_idx: 34
+    text: "The pollsters \n21 \nD+"
+    level: 5
+  - page: 7
+    block_idx: 35
+    text: "The voters \n40 \nC+"
+    level: 5
+  - page: 7
+    block_idx: 38
+    text: "Record share of voters say there was \nmore campaign \u2018mudslinging\u2019"
+    level: 6
+  - page: 7
+    block_idx: 39
+    text: '% of voters who say there was ___ than in past elections'
+    level: 2
+  - page: 9
+    block_idx: 6
+    text: "Trump\u2019s victory in a word"
+    level: 2
+  - page: 9
+    block_idx: 23
+    text: "N=533 \nN=587"
+    level: 5
+  - page: 10
+    block_idx: 14
+    text: Men
+    level: 5
+  - page: 10
+    block_idx: 15
+    text: Women
+    level: 5
+  - page: 10
+    block_idx: 18
+    text: 'No
+
+      Yes'
+    level: 5
+  - page: 10
+    block_idx: 19
+    text: Other important findings
+    level: 3
+  - page: 11
+    block_idx: 4
+    text: 1996          2004         2008         2012        2016
+    level: 5
+  - page: 11
+    block_idx: 15
+    text: 'Not surprised
+
+      Surprised'
+    level: 5
+  - page: 11
+    block_idx: 16
+    text: 1. Presidential election reactions and expectations
+    level: 1
+  - page: 11
+    block_idx: 21
+    text: "Half say they are happy Trump was \nelected president"
+    level: 2
+  - page: 11
+    block_idx: 22
+    text: "% of voters who say they are happy that ____ was \nelected president \u2026"
+    level: 5
+  - page: 11
+    block_idx: 26
+    text: "Most voters say they are surprised that \nTrump won the presidential election"
+    level: 2
+  - page: 11
+    block_idx: 27
+    text: "% of voters who say they are ____ Donald Trump won \nthe presidential election\
+      \ \u2026"
+    level: 5
+  - page: 13
+    block_idx: 21
+    text: 'Trump voters
+
+      Clinton voters'
+    level: 5
+  - page: 13
+    block_idx: 26
+    text: "Trump voters overwhelmingly feel \n\u2018hopeful\u2019 about his election"
+    level: 2
+  - page: 13
+    block_idx: 27
+    text: "% of Trump/Clinton voters who say the election of \nTrump makes them feel\
+      \ \u2026"
+    level: 5
+  - page: 14
+    block_idx: 7
+    text: Trump 2016
+    level: 5
+  - page: 14
+    block_idx: 8
+    text: Obama 2008
+    level: 5
+  - page: 14
+    block_idx: 9
+    text: "Unsuccessful \nSuccessful"
+    level: 5
+  - page: 14
+    block_idx: 18
+    text: Among winning candidate's voters
+    level: 5
+  - page: 14
+    block_idx: 19
+    text: Among losing candidate's voters
+    level: 5
+  - page: 14
+    block_idx: 27
+    text: "% of voters who say ___  will have a successful first \nterm \u2026"
+    level: 2
+  - page: 14
+    block_idx: 31
+    text: "Less optimism for first term among \nlosing candidates\u2019 voters in\
+      \ \u201916 than \u201908"
+    level: 6
+  - page: 14
+    block_idx: 32
+    text: "% of voters who say Trump/Obama  will have a \nsuccessful first term \u2026"
+    level: 2
+  - page: 15
+    block_idx: 7
+    text: "Willing to give Trump \na chance to see how \nhe governs"
+    level: 5
+  - page: 15
+    block_idx: 22
+    text: "Trump voters confident in the type  \nof president he will be"
+    level: 6
+  - page: 16
+    block_idx: 12
+    text: "Give greater \npriority to the"
+    level: 5
+  - page: 16
+    block_idx: 13
+    text: needs of his
+    level: 5
+  - page: 16
+    block_idx: 15
+    text: Give equal priority to
+    level: 5
+  - page: 16
+    block_idx: 16
+    text: "the needs of all \nAmericans, even those \nwho did not support him"
+    level: 5
+  - page: 16
+    block_idx: 22
+    text: "% of voters who say that as president, Trump will \u2026"
+    level: 2
+  - page: 17
+    block_idx: 14
+    text: 'For worse
+
+      Won''t change much
+
+      For better'
+    level: 5
+  - page: 17
+    block_idx: 18
+    text: "More say Trump will change things in \nWashington for better than worse"
+    level: 3
+  - page: 17
+    block_idx: 19
+    text: "% of voters who say Donald Trump will change the way \nthings work in Washington\
+      \ \u2026"
+    level: 3
+  - page: 18
+    block_idx: 12
+    text: "His goals are \nnot very clear"
+    level: 5
+  - page: 18
+    block_idx: 13
+    text: "Good idea where \nhe wants to lead"
+    level: 5
+  - page: 18
+    block_idx: 14
+    text: country
+    level: 5
+  - page: 18
+    block_idx: 17
+    text: "Most Clinton voters do not have clear \nsense of Trump\u2019s goals and\
+      \ vision"
+    level: 3
+  - page: 19
+    block_idx: 10
+    text: "All  \nvoters"
+    level: 5
+  - page: 20
+    block_idx: 31
+    text: "Voters most confident in Trump doing \nright thing on economy and terrorism"
+    level: 3
+  - page: 21
+    block_idx: 52
+    text: "Trump voters confident he will do right \nthing on issues; Clinton voters\
+      \ are not"
+    level: 2
+  - page: 21
+    block_idx: 54
+    text: Among Trump voters
+    level: 5
+  - page: 21
+    block_idx: 55
+    text: Among Clinton voters
+    level: 5
+  - page: 22
+    block_idx: 15
+    text: Trump (2016)
+    level: 5
+  - page: 22
+    block_idx: 16
+    text: Obama (2008)
+    level: 5
+  - page: 22
+    block_idx: 19
+    text: 'Better
+
+      No difference
+
+      Worse'
+    level: 5
+  - page: 22
+    block_idx: 20
+    text: Trump (2016)
+    level: 5
+  - page: 22
+    block_idx: 25
+    text: "% of voters who say election of (Trump/Obama) will \nlead to ____ race\
+      \ relations"
+    level: 3
+  - page: 23
+    block_idx: 26
+    text: McCain
+    level: 5
+  - page: 23
+    block_idx: 27
+    text: 'Get better
+
+      Stay about the same
+
+      Get worse'
+    level: 5
+  - page: 23
+    block_idx: 32
+    text: "2. Prospects for bipartisan cooperation, ideological direction \nof the\
+      \ parties"
+    level: 1
+  - page: 24
+    block_idx: 12
+    text: "Work with Democrats to \nget things done, even if it"
+    level: 5
+  - page: 24
+    block_idx: 21
+    text: "Most voters say Trump should try as \nbest he can to work with Democrats"
+    level: 3
+  - page: 24
+    block_idx: 22
+    text: "% of voters who say Donald Trump should\u2026"
+    level: 2
+  - page: 25
+    block_idx: 16
+    text: Work with Trump to get
+    level: 5
+  - page: 25
+    block_idx: 17
+    text: things done, even if it
+    level: 5
+  - page: 25
+    block_idx: 22
+    text: Are willing to give
+    level: 5
+  - page: 25
+    block_idx: 23
+    text: Trump a chance
+    level: 5
+  - page: 25
+    block_idx: 24
+    text: Can't give Trump
+    level: 5
+  - page: 25
+    block_idx: 25
+    text: a chance
+    level: 5
+  - page: 25
+    block_idx: 30
+    text: "Many Clinton voters want Democrats to \nstand up to Trump on important\
+      \ issues"
+    level: 2
+  - page: 25
+    block_idx: 31
+    text: "% of voters who say Democratic leaders should\u2026"
+    level: 5
+  - page: 26
+    block_idx: 13
+    text: Nov 2008
+    level: 5
+  - page: 26
+    block_idx: 14
+    text: Nov 2010
+    level: 5
+  - page: 26
+    block_idx: 15
+    text: Nov 2012
+    level: 5
+  - page: 26
+    block_idx: 16
+    text: Nov 2014
+    level: 5
+  - page: 26
+    block_idx: 17
+    text: Nov 2016
+    level: 5
+  - page: 26
+    block_idx: 18
+    text: 'More moderate
+
+      More conservative'
+    level: 5
+  - page: 26
+    block_idx: 29
+    text: Nov 2008
+    level: 5
+  - page: 26
+    block_idx: 30
+    text: Nov 2010
+    level: 5
+  - page: 26
+    block_idx: 31
+    text: Nov 2012
+    level: 5
+  - page: 26
+    block_idx: 32
+    text: Nov 2014
+    level: 5
+  - page: 26
+    block_idx: 33
+    text: Nov 2016
+    level: 5
+  - page: 26
+    block_idx: 34
+    text: 'More moderate
+
+      More liberal'
+    level: 5
+  - page: 26
+    block_idx: 37
+    text: "Most Republicans continue to say GOP \nshould be more conservative"
+    level: 3
+  - page: 27
+    block_idx: 12
+    text: "Unhappy \nHappy"
+    level: 5
+  - page: 27
+    block_idx: 18
+    text: "% of voters who are ____ that the Republican Party \nmaintained control\
+      \ of the U.S. Congress"
+    level: 2
+  - page: 28
+    block_idx: 33
+    text: Rep Party
+    level: 5
+  - page: 28
+    block_idx: 34
+    text: Dem Party
+    level: 5
+  - page: 28
+    block_idx: 35
+    text: Press
+    level: 5
+  - page: 28
+    block_idx: 36
+    text: Pollsters
+    level: 5
+  - page: 28
+    block_idx: 37
+    text: Voters
+    level: 5
+  - page: 28
+    block_idx: 40
+    text: "3. Voters\u2019 evaluations of the campaign"
+    level: 1
+  - page: 28
+    block_idx: 46
+    text: "Voters grade the parties, press and pollsters quite \nnegatively"
+    level: 2
+  - page: 29
+    block_idx: 3
+    text: "38 \n30 \n33"
+    level: 5
+  - page: 29
+    block_idx: 6
+    text: "33 \n34"
+    level: 5
+  - page: 29
+    block_idx: 10
+    text: "18 \n20"
+    level: 5
+  - page: 29
+    block_idx: 12
+    text: "13 \n14"
+    level: 5
+  - page: 29
+    block_idx: 13
+    text: "15 \n16"
+    level: 5
+  - page: 29
+    block_idx: 16
+    text: '1988
+
+      Dukakis'
+    level: 1
+  - page: 29
+    block_idx: 20
+    text: Dole
+    level: 5
+  - page: 29
+    block_idx: 24
+    text: Kerry
+    level: 5
+  - page: 29
+    block_idx: 26
+    text: '2012
+
+      Romney'
+    level: 1
+  - page: 29
+    block_idx: 40
+    text: "22 \n27 \n22"
+    level: 5
+  - page: 29
+    block_idx: 46
+    text: "8 \n10 \n10"
+    level: 5
+  - page: 29
+    block_idx: 55
+    text: '1992
+
+      Clinton'
+    level: 1
+  - page: 29
+    block_idx: 56
+    text: '1996
+
+      Clinton'
+    level: 1
+  - page: 29
+    block_idx: 62
+    text: '2012
+
+      Obama'
+    level: 1
+  - page: 29
+    block_idx: 73
+    text: "Trump campaign grades at historic low, Clinton\u2019s \ngrades comparable\
+      \ to losing candidates in the past"
+    level: 3
+  - page: 29
+    block_idx: 75
+    text: Winning presidential candidates
+    level: 3
+  - page: 29
+    block_idx: 77
+    text: Losing presidential candidates
+    level: 5
+  - page: 30
+    block_idx: 4
+    text: "29 \n28"
+    level: 5
+  - page: 30
+    block_idx: 5
+    text: "46 \n50"
+    level: 5
+  - page: 30
+    block_idx: 6
+    text: "28 \n37"
+    level: 5
+  - page: 30
+    block_idx: 9
+    text: "34 \n39"
+    level: 5
+  - page: 30
+    block_idx: 10
+    text: "31 \n24"
+    level: 5
+  - page: 30
+    block_idx: 11
+    text: "38 \n29"
+    level: 5
+  - page: 30
+    block_idx: 14
+    text: "18 \n18"
+    level: 5
+  - page: 30
+    block_idx: 31
+    text: "29 \n30"
+    level: 5
+  - page: 30
+    block_idx: 54
+    text: "Both parties receive poor grades for \ntheir performance in the campaign"
+    level: 2
+  - page: 30
+    block_idx: 56
+    text: The Republican Party
+    level: 5
+  - page: 30
+    block_idx: 58
+    text: The Democratic Party
+    level: 5
+  - page: 31
+    block_idx: 4
+    text: "33 \n29"
+    level: 5
+  - page: 31
+    block_idx: 5
+    text: "33 \n31"
+    level: 5
+  - page: 31
+    block_idx: 6
+    text: "32 \n26 \n29"
+    level: 5
+  - page: 31
+    block_idx: 10
+    text: "15 \n12"
+    level: 5
+  - page: 31
+    block_idx: 19
+    text: "43 \n47"
+    level: 5
+  - page: 31
+    block_idx: 20
+    text: "34 \n29"
+    level: 5
+  - page: 31
+    block_idx: 21
+    text: "41 \n51 \n43"
+    level: 5
+  - page: 31
+    block_idx: 23
+    text: "29 \n27"
+    level: 5
+  - page: 31
+    block_idx: 26
+    text: "33 \n23"
+    level: 5
+  - page: 31
+    block_idx: 29
+    text: "12 \n9"
+    level: 5
+  - page: 31
+    block_idx: 30
+    text: "11 \n15"
+    level: 5
+  - page: 31
+    block_idx: 31
+    text: "9 \n6 \n10"
+    level: 5
+  - page: 31
+    block_idx: 33
+    text: "11 \n6"
+    level: 5
+  - page: 31
+    block_idx: 34
+    text: "10 \n14"
+    level: 5
+  - page: 31
+    block_idx: 48
+    text: "Record low grades for the media and \npollsters in 2016"
+    level: 2
+  - page: 31
+    block_idx: 50
+    text: The press
+    level: 5
+  - page: 31
+    block_idx: 52
+    text: The pollsters
+    level: 5
+  - page: 33
+    block_idx: 3
+    text: "62 \n61"
+    level: 5
+  - page: 33
+    block_idx: 7
+    text: "37 \n37"
+    level: 5
+  - page: 33
+    block_idx: 12
+    text: Very/Fairly satisfied
+    level: 5
+  - page: 33
+    block_idx: 13
+    text: Not very/Not at all satisfied
+    level: 5
+  - page: 33
+    block_idx: 14
+    text: "83 \n86"
+    level: 5
+  - page: 33
+    block_idx: 15
+    text: "77 \n77"
+    level: 5
+  - page: 33
+    block_idx: 20
+    text: "36 \n36 \n31"
+    level: 5
+  - page: 33
+    block_idx: 27
+    text: Among those who voted for winning candidate
+    level: 5
+  - page: 33
+    block_idx: 29
+    text: Among those who voted for losing candidate
+    level: 5
+  - page: 33
+    block_idx: 32
+    text: "Bush* \nGore*"
+    level: 6
+  - page: 33
+    block_idx: 34
+    text: "McCain \nObama"
+    level: 6
+  - page: 33
+    block_idx: 35
+    text: Romney
+    level: 6
+  - page: 33
+    block_idx: 37
+    text: "Trump \nClinton"
+    level: 6
+  - page: 33
+    block_idx: 43
+    text: "For the first time in eight elections, \nmost are dissatisfied with vote\
+      \ choices"
+    level: 3
+  - page: 33
+    block_idx: 44
+    text: "% of voters who say they were ___ with the choice of \npresidential candidates"
+    level: 2
+  - page: 34
+    block_idx: 18
+    text: than usual
+    level: 5
+  - page: 34
+    block_idx: 20
+    text: than usual
+    level: 5
+  - page: 34
+    block_idx: 23
+    text: 46 47
+    level: 5
+  - page: 34
+    block_idx: 26
+    text: "23 \n34"
+    level: 5
+  - page: 34
+    block_idx: 28
+    text: "36 \n42 \n34"
+    level: 5
+  - page: 34
+    block_idx: 32
+    text: More than usual
+    level: 5
+  - page: 34
+    block_idx: 33
+    text: Less than usual
+    level: 5
+  - page: 34
+    block_idx: 41
+    text: "More see \u2018mud-slinging,\u2019 \nless focus on issues"
+    level: 3
+  - page: 35
+    block_idx: 6
+    text: 62 62 67 66 63
+    level: 5
+  - page: 35
+    block_idx: 10
+    text: 30 33 31 31 35
+    level: 5
+  - page: 35
+    block_idx: 12
+    text: Very/somewhat helpful
+    level: 5
+  - page: 35
+    block_idx: 13
+    text: Not too/Not at all helpful
+    level: 5
+  - page: 35
+    block_idx: 15
+    text: 77 75
+    level: 5
+  - page: 35
+    block_idx: 16
+    text: 83 86 85 87 81
+    level: 5
+  - page: 35
+    block_idx: 18
+    text: 20 23 15 13 14 11 18
+    level: 5
+  - page: 35
+    block_idx: 20
+    text: Learned enough
+    level: 5
+  - page: 35
+    block_idx: 21
+    text: Did not learn enough
+    level: 5
+  - page: 35
+    block_idx: 24
+    text: "Learning about the \ncandidates and issues"
+    level: 2
+  - page: 35
+    block_idx: 25
+    text: "% of voters who say they ___ to \nmake an informed choice"
+    level: 5
+  - page: 35
+    block_idx: 27
+    text: "% of voters who say they found the \npresidential debates ___ in deciding\
+      \ \nwho to vote for"
+    level: 5
+  - page: 36
+    block_idx: 7
+    text: Too little
+    level: 5
+  - page: 36
+    block_idx: 8
+    text: "About the \nright amount"
+    level: 5
+  - page: 36
+    block_idx: 9
+    text: Too much
+    level: 5
+  - page: 36
+    block_idx: 14
+    text: "More say press had \u2018too much\u2019  \ninfluence on outcome of the\
+      \ election"
+    level: 3
+  - page: 36
+    block_idx: 15
+    text: "% of voters saying news organizations had ___ \ninfluence on the outcome\
+      \ of the presidential election"
+    level: 3
+  - page: 37
+    block_idx: 12
+    text: Total
+    level: 5
+  - page: 37
+    block_idx: 24
+    text: Total
+    level: 5
+  - page: 37
+    block_idx: 30
+    text: "Most Trump voters say press was \u2018too \ntough\u2019 on Trump, \u2018\
+      too easy\u2019 on Clinton"
+    level: 3
+  - page: 37
+    block_idx: 31
+    text: "% of voters saying the press was ___ in the way it \ncovered each presidential\
+      \ candidate"
+    level: 2
+  - page: 37
+    block_idx: 32
+    text: Donald Trump
+    level: 5
+  - page: 37
+    block_idx: 33
+    text: Hillary Clinton
+    level: 5
+  - page: 38
+    block_idx: 12
+    text: '2012'
+    level: 5
+  - page: 38
+    block_idx: 25
+    text: '2012'
+    level: 5
+  - page: 38
+    block_idx: 30
+    text: 4. The voting process
+    level: 1
+  - page: 38
+    block_idx: 36
+    text: "Most voters are confident own vote, \nnational votes counted accurately"
+    level: 2
+  - page: 38
+    block_idx: 37
+    text: "% of voters who say they are _____ confident that \u2026"
+    level: 5
+  - page: 38
+    block_idx: 38
+    text: Their vote was accurately counted
+    level: 5
+  - page: 38
+    block_idx: 39
+    text: Votes across the country were accurately counted
+    level: 5
+  - page: 39
+    block_idx: 9
+    text: "42 \n44"
+    level: 5
+  - page: 39
+    block_idx: 16
+    text: "Similar shares of Trump, Clinton voters \nvery confident in national vote\
+      \ count"
+    level: 2
+  - page: 39
+    block_idx: 17
+    text: "Among those who _____, % who say they are very \nconfident that votes across\
+      \ the country were  \naccurately counted"
+    level: 5
+  - page: 40
+    block_idx: 4
+    text: "71 \n49"
+    level: 5
+  - page: 40
+    block_idx: 7
+    text: "4 \n12"
+    level: 5
+  - page: 40
+    block_idx: 8
+    text: "5 \n10"
+    level: 5
+  - page: 40
+    block_idx: 9
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 16
+    text: "2 \n13"
+    level: 5
+  - page: 40
+    block_idx: 17
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 18
+    text: "67 \n67"
+    level: 5
+  - page: 40
+    block_idx: 19
+    text: "18 \n25"
+    level: 5
+  - page: 40
+    block_idx: 21
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 22
+    text: "45 \n28"
+    level: 5
+  - page: 40
+    block_idx: 27
+    text: "6 \n15"
+    level: 5
+  - page: 40
+    block_idx: 28
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 37
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 38
+    text: "44 \n49"
+    level: 5
+  - page: 40
+    block_idx: 39
+    text: "32 \n30"
+    level: 5
+  - page: 40
+    block_idx: 40
+    text: "12 \n12"
+    level: 5
+  - page: 40
+    block_idx: 41
+    text: "11 \n8"
+    level: 5
+  - page: 40
+    block_idx: 42
+    text: 'Nov 2016
+
+      Aug 2016'
+    level: 5
+  - page: 40
+    block_idx: 47
+    text: "In August, Trump supporters voiced low confidence in \naccurate count;\
+      \ far more Trump voters confident now"
+    level: 2
+  - page: 40
+    block_idx: 48
+    text: "% who say they are _____ confident that \u2026"
+    level: 5
+  - page: 42
+    block_idx: 15
+    text: All in-person voters
+    level: 5
+  - page: 42
+    block_idx: 16
+    text: Voted early
+    level: 5
+  - page: 42
+    block_idx: 17
+    text: Voted Election Day
+    level: 5
+  - page: 42
+    block_idx: 18
+    text: 'Did not
+
+      wait'
+    level: 5
+  - page: 42
+    block_idx: 19
+    text: 'Waited
+
+      <30 min'
+    level: 5
+  - page: 42
+    block_idx: 20
+    text: 'Waited
+
+      30+ min'
+    level: 5
+  - page: 42
+    block_idx: 26
+    text: "% of in-person voters who \u2026"
+    level: 2
+  - page: 43
+    block_idx: 5
+    text: "Most voters decided their vote choice by \nthe end of the summer"
+    level: 3
+  - page: 43
+    block_idx: 6
+    text: "% of voters who say they definitely decided to vote for \ntheir candidate\
+      \ \u2026"
+    level: 2
+  - page: 43
+    block_idx: 18
+    text: "100 \n100 \n100"
+    level: 5
+  - page: 44
+    block_idx: 3
+    text: Methodology
+    level: 1
+  - page: 45
+    block_idx: 20
+    text: Survey conducted November 10-14, 2016
+    level: 5
+  - page: 45
+    block_idx: 21
+    text: Group
+    level: 5
+  - page: 45
+    block_idx: 22
+    text: Weighted proportion
+    level: 5
+  - page: 45
+    block_idx: 23
+    text: of voting public
+    level: 5

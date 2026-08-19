@@ -1,0 +1,13 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p11
+items:
+- id: 1
+  label: bar_chart_happy_elected
+  description: Bar chart showing percentage of voters happy that a candidate was elected
+    president.
+  status: COMPLETED
+- id: 2
+  label: bar_chart_surprised_won
+  description: Horizontal stacked bar chart showing percentage of voters surprised
+    that Trump won.
+  status: COMPLETED

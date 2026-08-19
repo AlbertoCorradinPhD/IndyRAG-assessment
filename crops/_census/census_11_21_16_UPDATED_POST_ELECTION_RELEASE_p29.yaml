@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p29
+items:
+- id: 1
+  label: bar_chart_campaign_grades
+  description: Bar chart showing campaign grades for winning and losing presidential
+    candidates from 1988 to 2016.
+  status: COMPLETED

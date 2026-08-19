@@ -1,0 +1,12 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p14
+items:
+- id: 1
+  label: bar_chart_1
+  description: Bar chart showing expectations for Trump's first term
+  status: COMPLETED
+- id: 2
+  label: bar_chart_2
+  description: Bar chart showing optimism for first term among losing candidates'
+    voters
+  status: COMPLETED

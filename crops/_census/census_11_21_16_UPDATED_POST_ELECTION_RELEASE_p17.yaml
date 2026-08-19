@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p17
+items:
+- id: 1
+  label: bar_chart_trump_change_washington
+  description: A stacked bar chart showing views on how Trump will change things in
+    Washington.
+  status: COMPLETED

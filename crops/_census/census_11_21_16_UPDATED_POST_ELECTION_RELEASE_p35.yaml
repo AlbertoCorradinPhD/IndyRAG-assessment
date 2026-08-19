@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p35
+items:
+- id: 1
+  label: line_chart_learning
+  description: Line chart showing learning about candidates and issues
+  status: COMPLETED

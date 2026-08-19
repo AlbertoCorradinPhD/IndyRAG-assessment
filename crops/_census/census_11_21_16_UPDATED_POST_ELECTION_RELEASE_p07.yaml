@@ -1,0 +1,11 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p07
+items:
+- id: 1
+  label: election_report_card_table
+  description: Table showing election report card grades
+  status: COMPLETED
+- id: 2
+  label: mudslinging_chart
+  description: Line chart showing share of voters saying there was more mudslinging
+  status: COMPLETED

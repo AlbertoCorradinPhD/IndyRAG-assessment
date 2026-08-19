@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p25
+items:
+- id: 1
+  label: bar_chart_01
+  description: Bar chart showing voter opinions on Democrats standing up to Trump
+  status: COMPLETED

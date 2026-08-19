@@ -1,0 +1,17 @@
+schema_version: '1.0'
+drafts:
+- is_macro: true
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 21
+  label: bar_chart
+  description: A stacked bar chart showing confidence in Trump on various issues among
+    Trump and Clinton voters.
+  bbox_norm:
+  - 0.49
+  - 0.18
+  - 0.91
+  - 0.71
+  crop_file: /Users/alberto/Documents/sampled/crops/_scratch/11_21_16_UPDATED_POST_ELECTION_RELEASE_p21_macro_bar_chart_060163.png
+  parent_id: null
+  parent_crop_file: null
+  parent_bbox_norm: null

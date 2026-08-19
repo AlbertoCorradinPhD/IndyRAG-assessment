@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p33
+items:
+- id: 1
+  label: satisfaction_chart
+  description: A line chart showing satisfaction with vote choices over time.
+  status: COMPLETED

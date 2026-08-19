@@ -1,0 +1,20 @@
+layers:
+- name: structure
+  prefix: STR
+  description: "TOC, index, table of contents, and structural page layouts"
+  keywords: [toc, index, layout, cover, page]
+
+- name: narrative
+  prefix: TXT
+  description: "Body prose, paragraphs, procedural lists, and textual descriptions"
+  keywords: [prose, text, paragraph, list, instruction]
+
+- name: visual
+  prefix: VIS
+  description: "Figures, schematics, diagrams, charts, and slide visual elements"
+  keywords: [figure, schematic, diagram, chart, image]
+
+- name: data
+  prefix: DATA
+  description: "Tables, key-value listings, spreadsheets, and formatted quantitative metrics"
+  keywords: [table, metrics, data, value, spreadsheet]

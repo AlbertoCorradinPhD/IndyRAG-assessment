@@ -1,0 +1,12 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p45
+items:
+- id: 1
+  label: sample_size_table
+  description: Table showing sample sizes and error margins for different groups in
+    the survey.
+  status: COMPLETED
+- id: 2
+  label: methodology_notes
+  description: Text paragraphs detailing methodology and organization information.
+  status: PENDING

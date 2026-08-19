@@ -1,0 +1,7 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p08
+items:
+- id: 1
+  label: bar_chart_reactions
+  description: A bar chart showing top reactions to Trump's victory.
+  status: COMPLETED

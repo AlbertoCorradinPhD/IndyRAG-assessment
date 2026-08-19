@@ -1,0 +1,1034 @@
+assets:
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-data-table-01
+  machine: 11_21_16_updated_post_election_release
+  layer: data
+  type: asset
+  display_name: data_table_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 9
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p09_macro_data_table_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p09_macro_data_table_01.png
+  caption: Pew Research Center survey table comparing voter reactions to Donald Trump's
+    2016 election victory
+  vision_prompt: "The image shows a structured data table titled 'Trump\u2019s victory\
+    \ in a word' from a Pew Research Center voter callback survey conducted in November\
+    \ 2016. The table compares the single-word emotional reactions of Trump voters\
+    \ versus Clinton voters following Donald Trump's presidential election victory.\
+    \ It presents raw counts of respondents mentioning each word (with 'Happy', 'Surprised',\
+    \ and 'Relieved' leading for Trump voters, and 'Shocked', 'Disappointed', and\
+    \ 'Disgusted' leading for Clinton voters), rather than percentages, to illustrate\
+    \ the divergent public sentiment between the two groups."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-clinton-voters
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_clinton_voters
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 4
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p04_macro_bar_chart_clinton_voters
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p04_macro_bar_chart_clinton_voters.png
+  caption: Pew Research chart showing Clinton voters' willingness to give Donald Trump
+    a chance
+  vision_prompt: 'The crop shows a horizontal stacked bar chart from the Pew Research
+    Center displaying public opinion data from November 10-14, 2016. It visualizes
+    how Clinton voters felt about ''giving Trump a chance'' shortly after the election.
+    The chart divides responses into two primary categories: 39% who say they cannot
+    see themselves giving Trump a chance due to his character, and 58% who say they
+    are willing to give him a chance to see how he governs. The visualization highlights
+    post-election sentiment and partisan attitudes during the presidential transition
+    period.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-line-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: line_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 3
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p03_macro_line_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p03_macro_line_chart.png
+  caption: "Line chart comparing voter grades ('A' or 'B') for winning and losing\
+    \ US presidential candidates (1988\u20132016)"
+  vision_prompt: The crop displays a dual line graph comparing the percentage of voters
+    who graded winning and losing US presidential candidates with an 'A' or 'B' for
+    their campaign conduct from 1988 to 2016. The darker gold line tracks the ratings
+    of winning candidates, culminating in Donald Trump's low score of 30% in 2016,
+    which is lower than any other winning candidate in recent decades. Conversely,
+    the lighter gold line tracks losing candidates, showing Hillary Clinton receiving
+    a 43% rating in 2016, which is higher than Trump's. This visualization highlights
+    how voter perception of the 2016 winner's campaign conduct deviated from previous
+    historical trends, where the winning candidate typically received higher grades
+    than the losing candidate.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-voter-preferences
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_voter_preferences
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 5
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p05_macro_bar_chart_voter_preferences
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p05_macro_bar_chart_voter_preferences.png
+  caption: Pew Research Center chart comparing voter sentiment on political cooperation
+    vs. opposition in 2008 and 2016
+  vision_prompt: The crop displays a bar chart from the Pew Research Center comparing
+    voter attitudes in November 2016 and November 2008. It illustrates public sentiment
+    on whether political leaders should cooperate with the incoming president to get
+    things done or stand up to them on key issues, even at the cost of gridlock. The
+    top section focuses on whether Democratic leaders should stand up to Donald Trump
+    in 2016, showing a high preference for opposition among Democratic voters (65%).
+    The bottom section provides historical context from 2008, showing whether Republican
+    leaders should work with Barack Obama, where a vast majority of Democrats (86%)
+    and even a majority of Republicans (59%) favored cooperation at that time.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-trump-voters
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_trump_voters
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 4
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p04_macro_bar_chart_trump_voters
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p04_macro_bar_chart_trump_voters.png
+  caption: Chart showing Trump voters' confidence in his presidency (November 2016)
+  vision_prompt: The crop displays a Pew Research Center horizontal stacked bar chart
+    titled 'Large share of Trump voters are confident in kind of president he'll be'.
+    It illustrates the sentiment of Trump voters shortly after the November 2016 election,
+    showing that a small fraction (10%, in dark gold) have serious concerns, while
+    an overwhelming majority (88%, in light gold) feel confident about his upcoming
+    presidency. A footnote attributes the data to a voter callback survey conducted
+    November 10-14, 2016.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-survey-results
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_survey_results
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 6
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p06_macro_bar_chart_survey_results
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p06_macro_bar_chart_survey_results.png
+  caption: Comparison of voter opinions on bipartisan administration appointments
+    in 2016 and 2008
+  vision_prompt: 'This stacked horizontal bar chart illustrates and compares public
+    and partisan opinions on whether newly elected presidents should appoint members
+    of the opposing party to key administration roles, contrasting November 2016 (Donald
+    Trump) with November 2008 (Barack Obama). The top section shows that while 55%
+    of all voters in 2016 believed Trump should appoint Democrats, there was a vast
+    partisan split: only 26% of Trump voters agreed, compared to 84% of Clinton voters.
+    The bottom section displays the 2008 baseline, where 60% of all voters felt Obama
+    should appoint Republicans, supported by 52% of Obama voters and 69% of McCain
+    voters. The chart uses color-coded horizontal bars to represent the responses
+    ''Should'', ''Should not'', and ''Doesn''t matter'' for each voter group.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-election-report-card-table
+  machine: 11_21_16_updated_post_election_release
+  layer: data
+  type: asset
+  display_name: election_report_card_table
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 7
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p07_macro_election_report_card_table
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p07_macro_election_report_card_table.png
+  caption: Pew Research Center poll table showing report card grades for 2016 election
+    participants
+  vision_prompt: 'The crop displays a statistical table titled ''Election report card:
+    Barely passing grades'' from the Pew Research Center, based on a voter callback
+    survey from November 2016. The table compares ratings for several political actors,
+    including Donald Trump, Hillary Clinton, the Republican and Democratic parties,
+    the press, pollsters, and voters themselves. It presents two columns: the percentage
+    of respondents who gave each subject an ''A'' or ''B'' grade, and their calculated
+    average letter grade. The data reveals generally poor public assessments, with
+    average grades hovering between C and D+ across all evaluated entities.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-mudslinging-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: mudslinging_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 7
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p07_macro_mudslinging_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p07_macro_mudslinging_chart.png
+  caption: "Line chart of voter perception of campaign mudslinging in US presidential\
+    \ elections (1992\u20132016)"
+  vision_prompt: 'The crop displays a Pew Research Center line graph tracking voter
+    opinions on campaign ''mudslinging'' from the years 1992 through 2016. Two contrasting
+    trend lines are shown: a prominent dark gold line representing the percentage
+    of voters who felt there was ''More mudslinging'' than in past elections, which
+    climbs to a record high of 92% in 2016, and a lighter gold line representing ''Less
+    mudslinging'' which drops to a record low of 4% in the same year. The graph serves
+    to visually demonstrate a dramatic shift toward perceived negativity in modern
+    political campaigns, particularly peaking in the 2016 US presidential election.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-polling-data-chart-01
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: polling_data_chart_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 10
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p10_macro_polling_data_chart_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p10_macro_polling_data_chart_01.png
+  caption: Pew Research survey chart on public expectations of electing a female president
+  vision_prompt: 'The image features a horizontal bar chart titled ''Will the country
+    elect a female president in your lifetime?'' from a Pew Research Center voter
+    callback survey conducted in November 2016. The chart illustrates the percentage
+    of voters who say ''No'' or ''Yes'' to this question, segmented into demographic
+    and political groups: All voters, Men, Women, Trump voters, and Clinton voters.
+    Across all categories, a strong majority ranging from 78% to 81% expect a female
+    president to be elected in their lifetime, while only 16% to 18% answer negatively,
+    showing consistent expectations across gender and political lines.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-01
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 13
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p13_macro_bar_chart_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p13_macro_bar_chart_01.png
+  caption: Pew Research Center chart on voter emotions following the 2016 presidential
+    election
+  vision_prompt: 'The crop features a horizontal bar chart illustrating the starkly
+    polarized emotional responses of Trump and Clinton voters following the 2016 US
+    presidential election. It measures the percentages of each group experiencing
+    various emotions: positive feelings like ''Hopeful'' (96% vs. 7%) and ''Proud''
+    (74% vs. 1%) dominate among Trump supporters, whereas negative feelings such as
+    ''Uneasy'' (90% vs. 13%), ''Sad'' (77% vs. 4%), ''Scared'' (76% vs. 5%), and ''Angry''
+    (62% vs. 1%) are overwhelming among Clinton supporters. This visualization highlights
+    the deep partisan division and emotional contrast directly after the election
+    outcome.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-happy-elected
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_happy_elected
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 11
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p11_macro_bar_chart_happy_elected
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p11_macro_bar_chart_happy_elected.png
+  caption: "Bar chart of voter happiness following U.S. presidential elections (1996\u2013\
+    2016)"
+  vision_prompt: This crop features a vertical bar chart titled 'Half say they are
+    happy Trump was elected president', which shows the percentage of voters who reported
+    being happy after specific presidential elections. The data spans from 1996 to
+    2016, displaying values for Bill Clinton in 1996 (53%), George W. Bush in 2004
+    (53%), Barack Obama in 2008 (58%) and 2012 (52%), and Donald Trump in 2016 (50%).
+    The gold-colored bars indicate that voter happiness with Trump's election was
+    the lowest among the five historical points compared.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-trump-change-washington
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_trump_change_washington
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 17
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p17_macro_bar_chart_trump_change_washington
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p17_macro_bar_chart_trump_change_washington.png
+  caption: Pew Research Center chart on voter expectations of Donald Trump's impact
+    on Washington
+  vision_prompt: "The crop features a horizontal stacked bar chart from the Pew Research\
+    \ Center illustrating voter expectations shortly after the November 2016 election.\
+    \ Titled 'More say Trump will change things in Washington for better than worse',\
+    \ the chart measures the percentage of voters who believe Donald Trump's presidency\
+    \ will alter the functioning of Washington, D.C. It breaks down responses into\
+    \ three main outlooks\u2014'For worse', 'Won't change much', and 'For better'\u2014\
+    and compares overall voters with distinct segments of Trump voters and Clinton\
+    \ voters to illustrate the deep partisan division in expectations."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-surprised-won
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_surprised_won
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 11
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p11_macro_bar_chart_surprised_won
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p11_macro_bar_chart_surprised_won.png
+  caption: Pew Research Center chart on voter surprise following Donald Trump's 2016
+    presidential election victory.
+  vision_prompt: 'This horizontal divergent bar chart illustrates voter surprise following
+    the 2016 U.S. presidential election where Donald Trump won. The chart breaks down
+    responses into ''Not surprised'' (indicated by olive-brown bars extending left
+    of the axis) and ''Surprised'' (indicated by gold bars extending right of the
+    axis). The data is categorized by three groups: ''All voters'', ''Trump voters'',
+    and ''Clinton voters''. It reveals that a substantial majority of all voters (73%)
+    were surprised by the victory, including 60% of Trump''s own voters and 87% of
+    Clinton''s voters, demonstrating that the outcome was widely unexpected across
+    the political spectrum.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-1
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_1
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 14
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p14_macro_bar_chart_1
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p14_macro_bar_chart_1.png
+  caption: Voter expectations for Donald Trump's first term compared to Barack Obama's
+    first term
+  vision_prompt: "The crop features a horizontal diverging bar chart titled 'More\
+    \ expect Trump\u2019s first term to be successful than unsuccessful,' which displays\
+    \ voter expectations for the first terms of Donald Trump in 2016 and Barack Obama\
+    \ in 2008. The chart contrasts percentages of voters who anticipated a successful\
+    \ versus unsuccessful term, aligned along a central axis. For Trump in 2016, 39%\
+    \ expected an unsuccessful term and 56% expected a successful one, while for Obama\
+    \ in 2008, 22% predicted an unsuccessful term and 67% predicted success. The source\
+    \ note credits a Pew Research Center voter callback survey conducted November\
+    \ 10\u201314, 2016."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-chart-clinton-supporters
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: chart_clinton_supporters
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 15
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p15_macro_chart_clinton_supporters
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p15_macro_chart_clinton_supporters.png
+  caption: Pew Research Center chart on Clinton supporters' post-election attitudes
+    toward Donald Trump (November 2016)
+  vision_prompt: 'The crop features a horizontal stacked bar chart published by the
+    Pew Research Center, displaying survey data on the attitudes of Hillary Clinton
+    supporters immediately after the 2016 US presidential election. The chart divides
+    responses into two main categories: 58% who were willing to give Donald Trump
+    a chance to see how he governs, and 39% who could not see themselves doing so
+    because of the kind of person he has shown himself to be. This data illustrates
+    the political sentiment and degree of openness toward the incoming administration
+    among opposition voters during the November 2016 post-election transition.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-emotional-reactions-bar-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: emotional_reactions_bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 12
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p12_macro_emotional_reactions_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p12_macro_emotional_reactions_bar_chart.png
+  caption: Bar chart of voter emotions regarding the 2016 election of Donald Trump
+  vision_prompt: "The crop features a horizontal bar chart from Pew Research Center\
+    \ titled 'Many voters say they feel \u2018uneasy\u2019 about the election of Trump'.\
+    \ It presents survey data from November 2016 showing the percentages of voters\
+    \ who felt various emotions regarding Donald Trump's election. The responses are\
+    \ separated into positive categories (51% 'Hopeful' and 36% 'Proud') and negative\
+    \ categories (53% 'Uneasy', 41% 'Sad', 41% 'Scared', and 31% 'Angry'), using gold\
+    \ horizontal bars to compare the prevalence of these feelings among the electorate."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-2
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_2
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 14
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p14_macro_bar_chart_2
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p14_macro_bar_chart_2.png
+  caption: Bar chart comparing voter optimism for the presidential first term between
+    the 2008 and 2016 elections
+  vision_prompt: 'The crop displays a horizontal bar chart published by the Pew Research
+    Center, comparing voter optimism regarding the success of a newly elected president''s
+    first term. Divided into two main groups, the upper section represents the winning
+    candidate''s voters (showing high optimism: 97% for Trump in 2016 and 92% for
+    Obama in 2008), while the lower section depicts the losing candidate''s voters.
+    The chart highlights a sharp contrast in opposition sentiment: only 15% of Clinton''s
+    2016 voters expected Trump''s first term to be successful, compared to 39% of
+    McCain''s 2008 voters who expected success for Obama, illustrating increased partisan
+    polarization over the eight-year gap.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-trump-goals
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_trump_goals
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 18
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p18_macro_bar_chart_trump_goals
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p18_macro_bar_chart_trump_goals.png
+  caption: Pew Research Center chart on voter perception of Donald Trump's goals and
+    vision (November 2016)
+  vision_prompt: 'The crop displays a horizontal diverging bar chart from the Pew
+    Research Center, detailing voter perceptions of Donald Trump''s goals and vision
+    shortly after the November 2016 election. The chart divides respondents into ''All
+    voters'', ''Trump voters'', and ''Clinton voters'', comparing the percentage who
+    believe ''His goals are not very clear'' (dark gold) against those who believe
+    there is a ''Good idea where he wants to lead country'' (light gold). It illustrates
+    a strong partisan divide: 87% of Trump voters report having a clear idea of his
+    direction, whereas 84% of Clinton voters find his goals unclear, with the general
+    voting public split evenly at 49% on both sides.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-confidence-bar-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: confidence_bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 20
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p20_macro_confidence_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p20_macro_confidence_bar_chart.png
+  caption: Stacked bar chart of voter confidence in Donald Trump on key policy issues
+    (November 2016)
+  vision_prompt: 'The crop displays a horizontal stacked bar chart published by the
+    Pew Research Center, titled ''Voters most confident in Trump doing right thing
+    on economy and terrorism''. It presents data from a November 2016 survey measuring
+    public confidence in Donald Trump''s potential handling of five key policy areas:
+    the economy, the threat of terrorism, health care, illegal immigration, and foreign
+    policy. The confidence levels are color-coded in shades of gold, ranging from
+    ''A great deal'' to ''None at all'', with horizontal bars indicating the percentage
+    breakdown of voter opinions for each issue.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-trump-priorities
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_trump_priorities
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 16
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p16_macro_bar_chart_trump_priorities
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p16_macro_bar_chart_trump_priorities.png
+  caption: Pew Research Center chart on voter expectations of Donald Trump's prioritization
+    of national versus supporter interests
+  vision_prompt: 'This horizontal diverging bar chart presents survey results from
+    Pew Research Center on voter expectations regarding Donald Trump''s presidency.
+    The chart visualizes responses to whether Trump will prioritize the needs of his
+    supporters (dark gold bars on the left) or give equal priority to all Americans
+    (light gold bars on the right). The data is split into three rows comparing ''All
+    voters'', ''Trump voters'', and ''Clinton voters''. It clearly illustrates a strong
+    partisan divide: a large majority of Trump voters (84%) believed he would prioritize
+    all Americans, whereas a significant majority of Clinton voters (75%) anticipated
+    he would prioritize his supporters.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-data-table
+  machine: 11_21_16_updated_post_election_release
+  layer: data
+  type: asset
+  display_name: data_table
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 19
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p19_macro_data_table
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p19_macro_data_table.png
+  caption: Survey table on Trump's first priority as president (Pew Research Center,
+    2016)
+  vision_prompt: 'The crop displays a data table from Pew Research Center illustrating
+    public opinion on the question: ''What should Trump''s first priority be as president?''.
+    The table presents the percentage of responses from all voters, Trump voters,
+    and Clinton voters across multiple categories including ''Health care/Obamacare''
+    (which leads with 20% overall), ''Economy'', ''Immigration/Secure border'', and
+    others. Explanatory footnotes at the bottom indicate the data comes from an open-ended
+    question during a voter callback survey conducted November 10-14, 2016.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-chart-trump-voters
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: chart_trump_voters
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 15
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p15_macro_chart_trump_voters
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p15_macro_chart_trump_voters.png
+  caption: Chart showing Trump voters' confidence in his future presidency (November
+    2016)
+  vision_prompt: 'The crop displays a horizontal stacked bar chart from the Pew Research
+    Center showing the level of confidence Trump voters had in his future presidency
+    shortly after the November 2016 election. The chart is divided into two segments:
+    a smaller dark gold section on the left representing the 10% of voters who have
+    serious concerns about what kind of president Trump will be, and a larger gold
+    section on the right representing the 88% who feel confident about his presidency.
+    The accompanying footnotes indicate that ''Don''t know'' responses are omitted
+    and cite a voter callback survey conducted from November 10 to 14, 2016.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-survey-results-chart-relations-improve
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: survey_results_chart_relations_improve
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 23
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p23_macro_survey_results_chart_relations_improve
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p23_macro_survey_results_chart_relations_improve.png
+  caption: Pew Research Center chart on voter expectations of bipartisan relations
+    in 2016 and 2008
+  vision_prompt: 'The image features a stacked horizontal bar chart from the Pew Research
+    Center displaying voter expectations on whether relations between Republicans
+    and Democrats in Washington will improve, stay the same, or get worse. It compares
+    data from two post-election periods: 2016 (following Donald Trump''s victory)
+    and 2008 (following Barack Obama''s victory). For each year, the chart compares
+    the overall population of voters to segments of voters based on who they voted
+    for (Trump vs. Clinton, and Obama vs. McCain). The data highlights that supporters
+    of the winning presidential candidate are consistently far more optimistic about
+    political relations improving than supporters of the losing candidate.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 22
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p22_macro_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p22_macro_bar_chart.png
+  caption: Pew Research Center survey chart comparing voter expectations on race relations
+    after the 2016 and 2008 elections.
+  vision_prompt: The crop displays a Pew Research Center horizontal stacked bar chart
+    illustrating voter expectations on race relations following the presidential elections
+    of Donald Trump in 2016 and Barack Obama in 2008. The chart compares the percentage
+    of voters predicting race relations will get 'Better' (shaded in gold), make 'No
+    difference' (shaded in medium tan), or get 'Worse' (shaded in light beige). A
+    secondary breakdown compares the polarized expectations between Trump voters and
+    Clinton voters in 2016, highlighting contrasting perspectives on the incoming
+    administration's societal impact.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-01-2
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 25
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p25_macro_bar_chart_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p25_macro_bar_chart_01.png
+  caption: Pew Research Center chart illustrating voter attitudes on whether Democratic
+    leaders should cooperate with or oppose Donald Trump.
+  vision_prompt: "The image features a horizontal stacked bar chart from the Pew Research\
+    \ Center displaying public opinion data on whether Democratic leaders should work\
+    \ with or stand up to Donald Trump following the 2016 election. The chart compares\
+    \ responses across 'All voters', 'Trump voters', and 'Clinton voters', with a\
+    \ further division among Clinton supporters based on their willingness to give\
+    \ Trump a chance. Two key stances are quantified: working with Trump to get things\
+    \ done (represented by gold bars) versus standing up to him on important issues\
+    \ (represented by light tan bars). The data visualizes a stark contrast, showing\
+    \ that while most Trump voters and a slight majority of all voters favor cooperation,\
+    \ a clear majority of Clinton voters\u2014especially those who cannot give Trump\
+    \ a chance\u2014prefer that Democratic leaders stand firm."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-chart-block
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: chart_block
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 26
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p26_macro_chart_block
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p26_macro_chart_block.png
+  caption: "Pew Research Center chart of partisan voter preferences for party ideological\
+    \ direction (2008\u20132016)"
+  vision_prompt: The crop displays a comparative stacked horizontal bar chart by Pew
+    Research Center showing the desired ideological direction of the Republican and
+    Democratic parties according to their respective voters between Nov 2008 and Nov
+    2016. The top section illustrates that a stable majority of Republican/Republican-leaning
+    voters (about 57% to 60%) consistently want their party to be more conservative,
+    while approximately 35% to 36% prefer it to be more moderate. Conversely, the
+    bottom section reveals a notable shift among Democratic/Democratic-leaning voters,
+    with the proportion wanting their party to be more liberal rising from 33% in
+    2008 to 49% in 2016, corresponding to a decrease in those favoring a more moderate
+    direction (from 57% down to 47%).
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-3
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 28
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p28_macro_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p28_macro_bar_chart.png
+  caption: Pew Research Center chart displaying voter grades for political figures
+    and media in the 2016 presidential election
+  vision_prompt: 'This horizontal stacked bar chart displays how voters graded various
+    political figures, organizations, and themselves on their conduct during the 2016
+    US presidential election campaign. The chart breaks down responses into four grade
+    categories: ''A or B'' in dark olive, ''C'' in light grey, ''D'' in light orange,
+    and ''F'' in dark brown. It shows that while Hillary Clinton and voters themselves
+    received the highest shares of positive grades (43% and 40% for ''A or B'', respectively),
+    Donald Trump, both major political parties, the press, and pollsters were graded
+    more critically, with the press receiving the highest proportion of failing grades
+    at 38%.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-survey-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: survey_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 27
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p27_macro_survey_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p27_macro_survey_chart.png
+  caption: Chart showing voter satisfaction with the GOP retaining its congressional
+    majority after the 2016 election.
+  vision_prompt: 'The image features a horizontal bar chart published by the Pew Research
+    Center, titled ''Voters have mixed reactions to GOP retaining congressional majority.''
+    It displays the percentage of voters who were either ''Unhappy'' (represented
+    in light gold) or ''Happy'' (represented in dark gold) that the Republican Party
+    maintained control of the U.S. Congress. The data is broken down into three categories:
+    ''All voters'' (45% unhappy vs. 52% happy), ''Trump voters'' (3% unhappy vs. 94%
+    happy), and ''Clinton voters'' (87% unhappy vs. 10% happy), clearly highlighting
+    the stark political polarization following the November 2016 election.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-stacked-bar-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: stacked_bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 30
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p30_macro_stacked_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p30_macro_stacked_bar_chart.png
+  caption: Voter-assigned grades for Republican and Democratic presidential campaign
+    performance from 1988 to 2016
+  vision_prompt: 'The crop features two stacked bar charts from the Pew Research Center
+    displaying historical voter grades for the campaign performance of the Republican
+    and Democratic parties from 1988 to 2016. Each bar represents a presidential election
+    year, segmented into four grade categories: ''A or B'' in green, ''C'' in light
+    grey, ''D'' in orange, and ''F'' in brown. The data highlights a significant drop
+    in high grades and a corresponding spike in ''F'' and ''D'' grades for both parties
+    in the 2016 election, showing that voters felt both parties performed poorly in
+    their respective campaigns compared to historical standards.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-campaign-grades
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_campaign_grades
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 29
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p29_macro_bar_chart_campaign_grades
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p29_macro_bar_chart_campaign_grades.png
+  caption: Stacked bar chart comparing voters' campaign grades for winning and losing
+    presidential candidates from 1988 to 2016
+  vision_prompt: "This dual-panel stacked bar chart illustrates the grades voters\
+    \ assigned to winning and losing U.S. presidential candidates from 1988 to 2016\
+    \ based on how they conducted their campaigns. The top section presents winning\
+    \ candidates (from George H.W. Bush in 1988 to Donald Trump in 2016), while the\
+    \ bottom section presents losing candidates (from Michael Dukakis in 1988 to Hillary\
+    \ Clinton in 2016). Each bar breaks down the percentage of grades into categories:\
+    \ 'A or B' (green), 'C' (grey), 'D' (light orange), and 'F' (dark orange). The\
+    \ visual highlight focuses on the historically low campaign grades for Donald\
+    \ Trump's 2016 campaign\u2014which received the lowest 'A or B' percentage (30%)\
+    \ and highest 'F' percentage (35%) among all winners\u2014contrasted with Hillary\
+    \ Clinton's 2016 campaign grades, which align closely with typical losing candidates\
+    \ from previous election cycles."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-satisfaction-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: satisfaction_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 33
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p33_macro_satisfaction_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p33_macro_satisfaction_chart.png
+  caption: Pew Research Center chart of voter satisfaction with presidential candidate
+    choices from 1988 to 2016
+  vision_prompt: The image features a double-panel line chart from the Pew Research
+    Center tracking U.S. voter satisfaction with presidential candidates from 1988
+    to 2016. The top panel compares overall percentages of voters who were 'Very/Fairly
+    satisfied' versus 'Not very/Not at all satisfied', highlighting a historic crossover
+    in 2016 when dissatisfaction (55%) exceeded satisfaction (44%) for the first time
+    in the recorded period. The bottom panel segments these trends by voter choice,
+    showing the satisfaction levels of those who voted for the winning candidate versus
+    those who voted for the losing candidate. Both charts demonstrate a dramatic decline
+    in candidate satisfaction during the 2016 election cycle across both winning and
+    losing voting blocs.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-line-chart-learning
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: line_chart_learning
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 35
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p35_macro_line_chart_learning
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p35_macro_line_chart_learning.png
+  caption: Pew Research Center line graphs on voter education and debate helpfulness
+    from 1988 to 2016
+  vision_prompt: The infographic displays public opinion trends from 1988 to 2016
+    regarding how voters learn about candidates and issues during presidential election
+    cycles. The upper line graph tracks the percentage of voters who feel they 'learned
+    enough' to make an informed choice versus those who 'did not learn enough'. The
+    lower line graph tracks whether voters found presidential debates to be 'very/somewhat
+    helpful' versus 'not too/not at all helpful' in helping them decide who to vote
+    for. Together, these charts illustrate historical shifts in voter confidence and
+    the perceived utility of debates over nearly three decades of elections.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-line-chart-mud-slinging
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: line_chart_mud_slinging
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 34
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p34_macro_line_chart_mud_slinging
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p34_macro_line_chart_mud_slinging.png
+  caption: Line charts tracking voter perceptions of campaign mudslinging and issue
+    focus from 1992 to 2016
+  vision_prompt: The image features a pair of line graphs from Pew Research Center
+    analyzing voter perceptions of campaign tone during US presidential elections
+    from 1992 to 2016. The upper chart tracks the percentage of voters who felt there
+    was 'More mudslinging than usual' versus 'Less mudslinging than usual', showing
+    a peak of 92% perceiving high mudslinging in 2016. The lower chart shows voter
+    opinions on the depth of policy discussion, tracking 'Less than usual' versus
+    'More than usual', highlighting that a record high of 73% felt there was less
+    focus on policy issues in the 2016 election. Both charts employ clear numeric
+    annotations at each election year node to show trends over time.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-01-3
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 36
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p36_macro_bar_chart_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p36_macro_bar_chart_01.png
+  caption: "Stacked bar chart of voter opinions on news media influence in presidential\
+    \ elections (1992\u20132016)"
+  vision_prompt: 'The crop features a stacked bar chart illustrating public opinion
+    trends on how much influence news organizations had on the outcome of US presidential
+    elections from 1992 to 2016. The chart divides responses into three categories
+    represented by stacked colored segments: ''Too much'' (dark gold at the bottom),
+    ''About the right amount'' (medium gold in the middle), and ''Too little'' (light
+    beige at the top). It highlights a notable spike in 2016 where 57% of surveyed
+    voters felt the press had ''too much'' influence, which is a significant increase
+    from previous cycles, accompanied by a corresponding decline in those who felt
+    the influence was ''about the right amount'' (dropping to 27%).'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-confidence-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: confidence_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 38
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p38_macro_confidence_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p38_macro_confidence_chart.png
+  caption: "Pew Research Center chart comparing voter confidence in their own vote\
+    \ vs. votes nationwide (2004\u20132016)"
+  vision_prompt: The crop displays a Pew Research Center dual horizontal stacked bar
+    chart showing the percentage of voters' confidence in election accuracy from 2004
+    to 2016. The top chart represents responses to whether voters believed 'Their
+    vote was accurately counted,' showing consistently high personal confidence, with
+    'Very' confident responses ranging between 68% and 73%. The bottom chart measures
+    confidence in whether 'Votes across the country were accurately counted,' revealing
+    a noticeably lower level of confidence, with 'Very' confident responses dropping
+    to between 31% and 48% across the same period. This comparison illustrates a persistent
+    perception gap where voters trust their own local voting process significantly
+    more than the national system.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-01-4
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_01
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 37
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p37_macro_bar_chart_01
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p37_macro_bar_chart_01.png
+  caption: Survey chart on voter perceptions of media coverage of Donald Trump and
+    Hillary Clinton in the 2016 election
+  vision_prompt: 'This image contains a horizontal stacked bar chart from the Pew
+    Research Center displaying voter perceptions of press coverage during the 2016
+    presidential election. It contrasts opinions on how the media covered Donald Trump
+    versus how they covered Hillary Clinton, segmented by the total electorate, Trump
+    voters, and Clinton voters. The data highlights partisan divergence: 74% of Trump
+    voters felt the press was ''too tough'' on Trump and 78% felt they were ''too
+    easy'' on Clinton, whereas Clinton voters felt the media was mostly ''too easy''
+    or ''fair'' on Trump and ''fair'' or ''too tough'' on Clinton.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-4
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 39
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p39_macro_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p39_macro_bar_chart.png
+  caption: Pew Research Center bar chart comparing voter confidence in the national
+    vote count from 2004 to 2016
+  vision_prompt: 'This image displays a comparative bar chart from the Pew Research
+    Center titled ''Similar shares of Trump, Clinton voters very confident in national
+    vote count''. It tracks the percentage of voters who felt very confident that
+    votes across the country were accurately counted, categorized by whether they
+    voted for the Republican candidate (red) or the Democratic candidate (blue). Data
+    is shown for four elections: November 2004, 2008, 2012, and 2016, with partisan
+    percentage point margins labeled at the top of each year''s pair of bars (such
+    as R+54 in 2004 and R+3 in 2016). The chart illustrates a historical trend where
+    voters of the winning party typically express much higher confidence, contrasting
+    with the 2016 election where both groups of voters displayed remarkably similar
+    levels of moderate confidence.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-5
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 40
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p40_macro_bar_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p40_macro_bar_chart.png
+  caption: Pew Research Center chart showing shift in voter confidence regarding election
+    count accuracy between August and November 2016
+  vision_prompt: 'This crop shows a Pew Research Center stacked bar chart illustrating
+    voter confidence before and after the November 2016 US presidential election.
+    The chart compares survey data from August 2016 and November 2016, categorized
+    into three voter groups: ''All voters'', ''Trump voters'', and ''Clinton voters''.
+    It is divided into two main panels: the top panel displays confidence regarding
+    whether ''Votes across the country'' will be or were accurately counted, while
+    the bottom panel measures confidence regarding whether ''Their [own] vote'' will
+    be or was accurately counted. The visual trend highlights a sharp post-election
+    increase in confidence among Trump supporters, whose ''very confident'' ratings
+    rose from 11% to 47% for national votes, and from 38% to 75% for their personal
+    votes.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-wait-time-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: wait_time_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 42
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p42_macro_wait_time_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p42_macro_wait_time_chart.png
+  caption: Bar chart comparing wait times for early versus Election Day in-person
+    voters (2016)
+  vision_prompt: 'A horizontal stacked bar chart showing wait times for in-person
+    voters in 2016, categorized by whether they voted early or on Election Day. The
+    chart is split into three segments: those who did not wait, those who waited less
+    than 30 minutes, and those who waited 30 minutes or more. A vertical line visually
+    separates voters who did not wait from those who did, illustrating that 48% of
+    early voters had to wait compared to 35% of Election Day voters.'
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-reactions
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_reactions
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 8
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p08_macro_bar_chart_reactions
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p08_macro_bar_chart_reactions.png
+  caption: Bar chart of voter emotions following Donald Trump's 2016 election victory
+  vision_prompt: "This horizontal bar chart displays the percentage of voters experiencing\
+    \ various emotional reactions to Donald Trump's 2016 presidential election victory,\
+    \ based on a Pew Research Center callback survey from November 10\u201314, 2016.\
+    \ The chart is divided into two thematic blocks: positive-leaning or forward-looking\
+    \ emotions, showing 'Hopeful' at 51% and 'Proud' at 36%, and negative emotions,\
+    \ led by 'Uneasy' at 53%, followed by 'Sad' and 'Scared' both at 41%, and 'Angry'\
+    \ at 31%. The visual representation highlights the mixed and highly polarized\
+    \ feelings of the electorate immediately following the election."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-sample-size-table
+  machine: 11_21_16_updated_post_election_release
+  layer: data
+  type: asset
+  display_name: sample_size_table
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 45
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p45_macro_sample_size_table
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p45_macro_sample_size_table.png
+  caption: Survey sample sizes and margin of error table by political group (November
+    2016)
+  vision_prompt: The crop displays a statistical methodology table outlining unweighted
+    sample sizes, weighted proportions of the voting public, and margins of error
+    at a 95% confidence level for various survey groups. Conducted between November
+    10-14, 2016, the table details demographics such as Trump voters, Clinton voters,
+    and party leaners (Republican/Lean Rep and Democrat/Lean Dem). It highlights how
+    full-sample versus 'half form' subsamples impact the unweighted sample count and
+    consequently expand the expected plus-or-minus percentage point margin of error.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-survey-data-table
+  machine: 11_21_16_updated_post_election_release
+  layer: data
+  type: asset
+  display_name: survey_data_table
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 43
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p43_macro_survey_data_table
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p43_macro_survey_data_table.png
+  caption: Table of voter decision timing in the 2016 presidential election
+  vision_prompt: The crop displays a statistical table from the Pew Research Center
+    showing the timing of voters' final decisions during the 2016 US Presidential
+    Election. It details the percentage of all voters, Trump voters, and Clinton voters
+    who decided on their choice at key campaign milestones, ranging from before 2016
+    to the final week of Election Day. The data highlights that the largest single
+    block of voters made their choice during or just after the national conventions,
+    with very few waiting until the final week.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-voter-opinion-chart
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: voter_opinion_chart
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 24
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p24_macro_voter_opinion_chart
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p24_macro_voter_opinion_chart.png
+  caption: Chart showing voter opinions on Donald Trump cooperating with Democrats
+    vs. standing up to them
+  vision_prompt: "The crop displays a Pew Research Center bar chart illustrating public\
+    \ sentiment immediately following the 2016 election. Titled 'Most voters say Trump\
+    \ should try as best he can to work with Democrats,' it compares the percentage\
+    \ of voters who believe the president-elect should cooperate with political opponents\
+    \ to get things done versus those who believe he should stand firm on principle\
+    \ even at the expense of legislative progress. The data is broken down into three\
+    \ categories: 'All voters', 'Trump voters', and 'Clinton voters', using two colored\
+    \ segments\u2014a light tan bar for cooperation (which shows a 73% total majority)\
+    \ and a darker gold bar for standing up to opposition (22% total)."
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true
+- urn: asset://11_21_16_updated_post_election_release/11-21-16-UPDATED-POST-ELECTION-RELEASE/IMG-bar-chart-grades
+  machine: 11_21_16_updated_post_election_release
+  layer: visual
+  type: asset
+  display_name: bar_chart_grades
+  doc_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  page: 31
+  region_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p31_macro_bar_chart_grades
+  crop_file: crops/promoted/11_21_16_UPDATED_POST_ELECTION_RELEASE_p31_macro_bar_chart_grades.png
+  caption: Bar chart of historical voter grading for the media and pollster performance
+    from 1988 to 2016
+  vision_prompt: This graphic consists of two stacked bar charts depicting the historical
+    distribution of letter grades (A/B, C, D, and F) that voters assigned to 'the
+    press' and 'the pollsters' for their performance during presidential election
+    campaigns from 1988 to 2016. The top chart shows grades for the press, and the
+    bottom chart shows grades for pollsters, highlighting a sharp decline in public
+    approval in 2016, marked by record-high 'F' grades (38% for the press, 30% for
+    pollsters) and record-low 'A or B' grades.
+  source_type: A4 11_21_16_UPDATED_POST_ELECTION_RELEASE
+  needs_verification: false
+  HITL_approval: true
+  is_macro: true

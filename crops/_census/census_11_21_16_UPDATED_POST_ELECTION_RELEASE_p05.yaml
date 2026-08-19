@@ -1,0 +1,8 @@
+schema_version: '1.0'
+page_id: 11_21_16_UPDATED_POST_ELECTION_RELEASE_p05
+items:
+- id: 1
+  label: bar_chart_voter_preferences
+  description: Bar chart showing voter preferences for Democratic leaders standing
+    up to Trump
+  status: COMPLETED

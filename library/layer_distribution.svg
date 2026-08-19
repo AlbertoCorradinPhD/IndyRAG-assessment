@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 520" width="100%" height="100%" style="font-family: system-ui, sans-serif; background-color: #f8f9fa;">
+  <text x="425.0" y="35" text-anchor="middle" font-size="22" font-weight="bold" fill="#212529">Assigned Asset Layer Distribution</text>
+  <text x="425.0" y="55" text-anchor="middle" font-size="12" fill="#6c757d">Total Ingested: 44 Assets</text>
+  <text x="65" y="444.0" text-anchor="end" font-size="12" fill="#495057">0.0%</text>
+  <line x1="80" y1="364.0" x2="800" y2="364.0" stroke="#e9ecef" stroke-dasharray="4" />
+  <text x="65" y="368.0" text-anchor="end" font-size="12" fill="#495057">18.0%</text>
+  <line x1="80" y1="288.0" x2="800" y2="288.0" stroke="#e9ecef" stroke-dasharray="4" />
+  <text x="65" y="292.0" text-anchor="end" font-size="12" fill="#495057">36.0%</text>
+  <line x1="80" y1="212.0" x2="800" y2="212.0" stroke="#e9ecef" stroke-dasharray="4" />
+  <text x="65" y="216.0" text-anchor="end" font-size="12" fill="#495057">54.0%</text>
+  <line x1="80" y1="136.0" x2="800" y2="136.0" stroke="#e9ecef" stroke-dasharray="4" />
+  <text x="65" y="140.0" text-anchor="end" font-size="12" fill="#495057">72.0%</text>
+  <line x1="80" y1="60.0" x2="800" y2="60.0" stroke="#e9ecef" stroke-dasharray="4" />
+  <text x="65" y="64.0" text-anchor="end" font-size="12" fill="#495057">90.0%</text>
+  <line x1="80" y1="60" x2="80" y2="440" stroke="#dee2e6" stroke-width="2" />
+  <line x1="80" y1="440" x2="800" y2="440" stroke="#dee2e6" stroke-width="2" />
+  <text x="179.375" y="430.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#343a40">0.0% (0)</text>
+  <text x="179.375" y="465" text-anchor="middle" font-size="12" font-weight="bold" fill="#495057" transform="rotate(12, 179.375, 465)">STRUCTURE</text>
+  <text x="353.125" y="430.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#343a40">0.0% (0)</text>
+  <text x="353.125" y="465" text-anchor="middle" font-size="12" font-weight="bold" fill="#495057" transform="rotate(12, 353.125, 465)">NARRATIVE</text>
+  <rect x="452.5" y="65.75757575757575" width="148.75" height="374.24242424242425" fill="#d4af37" rx="5" ry="5" opacity="0.95" />
+  <text x="526.875" y="55.75757575757575" text-anchor="middle" font-size="12" font-weight="bold" fill="#343a40">88.6% (39)</text>
+  <text x="526.875" y="465" text-anchor="middle" font-size="12" font-weight="bold" fill="#495057" transform="rotate(12, 526.875, 465)">VISUAL</text>
+  <rect x="626.25" y="392.020202020202" width="148.75" height="47.979797979797986" fill="#9b59b6" rx="5" ry="5" opacity="0.95" />
+  <text x="700.625" y="382.020202020202" text-anchor="middle" font-size="12" font-weight="bold" fill="#343a40">11.4% (5)</text>
+  <text x="700.625" y="465" text-anchor="middle" font-size="12" font-weight="bold" fill="#495057" transform="rotate(12, 700.625, 465)">DATA</text>
+</svg>

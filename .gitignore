@@ -1,0 +1,8 @@
+# Python / System caches
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Remove the active project marker
+.rag_project
